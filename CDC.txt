@@ -1,0 +1,99 @@
+OpenHackVE - Comunidad de seguridad informática contra los delitos informáticos.
+----
+
+
+Código de conducta
+
+
+**Introducción**
+
+**Código de Conducta**
+
+**Objetivo General**
+
+**Del conflicto de intereses**
+
+**Principios generales de comportamiento en la comunidad**
+
+**Pautas éticas en las relaciones** (En desarrollo)
+
+**Comportamiento ante conductas antiéticas o que impliquen conflicto de intereses** (En desarrollo)
+
+
+## Introducción 
+
+"Nadie debe empezar un proyecto grande. Empiezas con uno pequeño y trivial y nunca debes esperar que crezca; si lo haces solamente sobre-diseñarás y generalmente pensarás que es más importante de lo que lo es en esta etapa. O peor, puedes asustarte por el tamaño de lo que tu esperas que crezca. Así que empieza pequeño y piensa en los detalles. No pienses acerca de la foto grande y el diseño elegante. Si no resuelve una necesidad inmediata, seguramente está sobre-diseñado. Y no esperes que la gente salte a ayudarte, no es así como estas cosas funcionan. Primero debes tener algo medianamente usable y otros dirán "hey, esto casi funciona para mí" y se involucrarán en el proyecto." Linus Torvalds.
+Introducción
+
+
+Un código de conducta de una _comunidad_ es un documento redactado voluntariamente por un _colectivo_ en el que se exponen una serie de principios que se comprometen unilateralmente a seguir y cumplir. 
+Los códigos de conducta están temáticamente relacionados con la responsabilidad social.
+La responsabilidad social es un término que se refiere a la carga, compromiso u obligación, de los miembros de una sociedad –ya sea como individuos o como miembros de algún grupo– tienen, tanto entre sí como para la sociedad en su conjunto.
+
+
+Este código de conducta cubre su comportamiento como miembro de la comunidad OpenHackVe, en cualquier foro, lista de correo, wiki, sitio web, Canal IRC, install-fest (festival de instalación), reunión pública o correspondencia privada. En concenso de la Comunidad OpenHackVe se arbitrará en cualquier discusión sobre la conducta de un miembro de la comunidad.
+
+
+Si quieres formar parte de esta comunidad, no importa de qué parte del país seas; sólo debes tener entusiasmo, querer compartir conocimientos, aprender y ánimos de ayudar cumpliendo las siguientes normas:
+
+
+## Código de Conducta:
+
+
+1.- Acatar con el código de conducta, bajo cualquier concepto y pretexto.
+
+2.- Debe cumplir con los cuatro pilares fundamentales del Software libre.
+
+3.- Siempre mantenga una [ética Hacker] (http://es.wikipedia.org/wiki/Ética_hacker)
+
+4.- Sea considerado y respetuoso: Procure encontrar puntos comunes y enfocarse para superar las diferencias.
+Recuerde que no es ni menos, mi más que nadie.
+
+5.- Sea positivo: Usted está representando el concepto de Libertad del Software ante su comunidad y el mundo.
+
+6.- Sea colaborativo y estimulante: toda la comunidad debe involucrarse para promover la Libertad del Software.
+
+7.- Sea cooperativo: si surge alguna diferencia o discusión importante, consulte con otros. ¡Evite los conflictos!
+
+8.- No sea destructivo, engañoso, ni actúe ilegalmente o faltando a las normativas.
+
+9.- Cumplir con el uso de las [Netiquetas]
+(http://es.wikipedia.org/wiki/Netiqueta)
+
+
+## Objetivo General
+Crear, implementar, desarrollar y compartir, basando nuestros principios en  las libertades del software libre y la cultura libre,  una comunidad enfocada en la seguridad informática.
+
+
+## Nuestro Compromiso
+
+Compartir, difundir y defender los cuatro pilares del software libre. Bajo un esquema de armonía e integración enfocados a la seguridad informática. 
+
+
+## Del conflicto de intereses
+Esperamos que los pertenecientes a ésta comunidad sean conscientes cuando exista un conflicto, debido a sus trabajos o a otros proyectos en los que estén involucrados, y abstenerse o delegar decisiones que puedan ser percibidas como beneficio propio. Esperamos que todos los que participan en el proyecto lo hagan con el objetivo de mejorar la vida de los usuarios.
+En caso de duda, pida una segunda opinión. La percepción de conflictos de interés son un tema importante para abordar, como líder, debe actuar para asegurar que las decisiones tomadas sean confiables incluso si ocasionalmente puedan llegar a ser impopulares, en contra o favorables a los intereses de un grupo sobre otro.
+Este Código no es exhaustivo ni está completo. No es un reglamento, sirve para destilar nuestra comprensión común de un ambiente de colaboración y objetivos comunes. Esperamos que pueda ser seguido tanto en su espíritu como en la letra.
+
+
+## De los miembros
+
+- Esta es una asociación sin fines de lucros.
+- Esta asociación no tiene como fin, ni sirve como medio para, la ejecución de actividades ilegales o que atenten contra los derechos humanos ni su privacidad.
+- La asociación no participará en actividades fuera de sus objetivos, entre éstas:
+        - Políticas.
+        - Religiosas.
+        - Sexuales.
+- Ésta es una organización de carácter horizontal. Bajo ningún concepto un miembro puede contar con mayor poder que otro dentro de la comunidad.
+- No existe ningún tipo de discriminación (género, racial, ideológico,cultural o religioso).
+- Los problemas personales, sociales o políticos están fuera del fin de la comunidad y no les atañe.
+De los Eventos 
+
+- Cada evento en el que la comunidad participe contará con un grupo de trabajo responsable conformado por miembros establecidos.
+- Serán elegidos en las reuniones de manera democrática y/o voluntaria.
+- Se debe comunicar si por cualquier motivo no se pueden cumplir las responsabilidades asumidas. En este caso se discutirá en reunión quién asumirá la responsabilidad.
+- Se debe mantener actualizados al resto de los miembros de los avances y dificultades relacionadas con la organización para su resolución en conjunto.
+- El resto de los miembros pueden determinar que un grupo de trabajo o miembro responsable no está cumpliendo con los compromisos asumidos y decidir su destitución y nuevos responsables en reunión.
+- Los responsables serán el primer punto de contacto para obtener información u ofrecer ayuda al respecto del evento.
+
+----
