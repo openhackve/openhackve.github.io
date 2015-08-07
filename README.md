@@ -2,7 +2,7 @@
 
 Nueva versión de OpenHackVe.
 
-Comunidad informática contra los delitos informáticos y más.
+Comunidad informática con una cultura hacker para aprender.
 
 ¡Sean todos bienvenidos!
 
